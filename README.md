@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Argument19CM/Argument19CM/main/A_2D_digital_graphic_design_professional_banner_in.png" alt="Argument19CM Banner" width="100%" />
-</p>
+
 
 <h1 align="center">👋 Hey, I'm Argument19CM</h1>
 
