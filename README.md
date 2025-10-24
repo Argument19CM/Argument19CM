@@ -1,6 +1,5 @@
-https://github.com/Argument19CM/Argument19CM/blob/main/ChatGPT%20Image%20Oct%2025%2C%202025%2C%2001_58_04%20AM.png
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/Argument19CM/Argument19CM/main/A_2D_digital_graphic_design_professional_banner_in.png](https://github.com/Argument19CM/Argument19CM/blob/main/ChatGPT%20Image%20Oct%2025%2C%202025%2C%2001_58_04%20AM.png)" alt="Argument19CM Banner" width="100%" />
+  <img src="banner.png" alt="Argument19CM Banner" width="100%" />
 </p>
 <h1 align="center">👋 Hey, I'm Argument19CM</h1>
 
