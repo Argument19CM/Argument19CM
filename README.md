@@ -1,16 +1,46 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Argument19CM/Argument19CM/main/A_2D_digital_graphic_design_professional_banner_in.png" alt="Argument19CM Banner" width="100%" />
+</p>
 
-<!--
-**Argument19CM/Argument19CM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">👋 Hey, I'm Argument19CM</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  💻 Python | Django | Django REST Framework Developer <br>
+  🌐 Building modern, scalable web solutions and APIs <br>
+  🚀 Passionate about backend, startups, and clean architecture
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧰 Skills & Tools
+
+- 🐍 **Python**, **Django**, **Django REST Framework**
+- ⚙️ API development, CRUD operations, Authentication
+- 🗄️ PostgreSQL, SQLite, MySQL
+- 🌍 HTML, CSS, JavaScript (Basic)
+- ☁️ Deployment: Render, Vercel, PythonAnywhere
+- 🧠 Git, GitHub, Postman, VS Code
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Argument19CM&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Argument19CM&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🧠 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Argument19CM&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  💬 <i>"Clean code, clear mind."</i><br>
+  🚀 <b>— Argument19CM</b>
+</p>
